@@ -114,9 +114,8 @@ Automation & Infrastructure
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ViniciusBCMello&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=E53935&icon_color=E53935&text_color=C9D1D9" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBCMello&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=E53935&text_color=C9D1D9" />
+<img height="210" src="./github-metrics-stats.svg" />
 
 <br/><br/>
 
