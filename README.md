@@ -24,14 +24,6 @@ My experience combines data analysis, RPA automation, backend development and ma
 1.1 PROFILE INFORMATION
 
 <table>   <thead>     <tr>       <th align="left">INFORMAÇÃO</th>       <th align="left">DETALHES</th>     </tr>   </thead>   <tbody>     <tr><td><strong>Cargo</strong></td><td>Data Analyst / BI Developer</td></tr>     <tr><td><strong>Empresa</strong></td><td>Contax S.A.</td></tr>     <tr><td><strong>Formação</strong></td><td>Engenharia da Computação</td></tr>     <tr><td><strong>Instituição</strong></td><td>Universidade Veiga de Almeida</td></tr>     <tr><td><strong>Conclusão prevista</strong></td><td>Dezembro de 2026</td></tr>     <tr><td><strong>Localização</strong></td><td>Rio de Janeiro, Brasil</td></tr>     <tr><td><strong>Especialidade</strong></td><td>BI, RPA, Automação e Desenvolvimento</td></tr>     <tr><td><strong>Português</strong></td><td>Nativo</td></tr>     <tr><td><strong>Inglês</strong></td><td>C1 — Fluente</td></tr>     <tr><td><strong>Libras</strong></td><td>Básico</td></tr>   </tbody> </table>
-<a href="https://github.com/ViniciusBCMello">
-<img src="https://img.shields.io/badge/GitHub-ViniciusBCMello-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-</a>
-<br>
-<a href="https://www.linkedin.com/in/vinicius-mello-893529256/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-</a>
-<br>
 
 02. AREAS OF EXPERTISE
 <table>
@@ -110,71 +102,9 @@ Automation & Infrastructure
 </div>
 
 <br/>
-04. GITHUB ANALYTICS
-
-<div align="center">
-
-
-<img height="210" src="./github-metrics-stats.svg" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=ViniciusBCMello&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=E53935&amp;fire=E53935&amp;currStreakLabel=E53935" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusBCMello&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=E53935&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" />
-
-</div>
 
 <br/>
-05. SELECTED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-Peteco — AI Agent
-
-Intelligent agent architecture with tool calling, context management and database integration.
-
-PYTHON AI AGENT ARCHITECTURE
-
-</td>
-<td width="50%" valign="top">
-
-Ligo Messaging
-
-Automation and data processing workflow for message extraction, transformation and cost management.
-
-PYTHON RPA ETL SQL
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-Zentrafood — SaaS
-
-White-label restaurant management platform with marketplace integrations and centralized order management.
-
-PYTHON FLASK SAAS
-
-</td>
-<td width="50%" valign="top">
-
-TeleComuni — Telemedicine
-
-Distributed telemedicine application with authentication, containerization and service architecture.
-
-FLASK DOCKER POSTGRESQL
-
-</td>
-</tr>
-</table>
-
-<br/>
-06. CONNECT WITH ME
+04. CONNECT WITH ME
 
 <div align="center">
 
@@ -185,8 +115,7 @@ FLASK DOCKER POSTGRESQL
 <a href="https://github.com/ViniciusBCMello">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
-
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090C0C,100:E53935&amp;height=120&amp;section=footer" />
 
