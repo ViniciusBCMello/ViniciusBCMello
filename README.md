@@ -1,229 +1,234 @@
- <!-- HEADER -->
+<!-- ====================================================== -->
 
-<div align="center">   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090C0C,100:E53935&height=220&section=header&text=VINICIUS%20MELLO&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20ANALYTICS%20%26%20SOFTWARE%20DEVELOPMENT&descAlignY=58&descSize=16&animation=fadeIn" />
+<!-- BASTOSVINICIUS | GITHUB PROFILE -->
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=650&lines=Data+Analytics+%26+Business+Intelligence;Python+%7C+RPA+%7C+Data+Engineering;Software+Development+%26+AI;Turning+data+into+intelligent+solutions." />
-
-  <br>
-
-  <a href="https://github.com/ViniciusBCMello">     <img src="https://img.shields.io/badge/GitHub-ViniciusBCMello-181717?style=for-the-badge&logo=github&logoColor=white" />   </a>   <a href="https://www.linkedin.com/in/vinicius-mello-893529256/">     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />   </a> </div>
-
-<br>
-
-<!-- ABOUT -->
-
-<h2 align="center">01. ABOUT ME</h2>
-
-<p align="center">   <b>Data Analyst & Software Developer</b> focused on building solutions that connect data, automation and software engineering. </p>
-
-<p align="center">   I work with Business Intelligence, data pipelines, RPA automation, backend development and machine learning, transforming operational challenges into reliable and scalable technical solutions. </p>
+<!-- ====================================================== -->
 
 <div align="center">
 
-PROFILE
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090C0C,100:E53935&amp;height=220&amp;section=header&amp;text=VINICIUS%20MELLO&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=DATA%20ANALYTICS%20%26%20SOFTWARE%20DEVELOPMENT&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=E53935&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Data+Analytics+%26+Business+Intelligence;Python+%7C+RPA+%7C+Data+Engineering;Software+Development+%26+AI;Turning+data+into+intelligent+solutions" />
+
+<br/>
+
+<a href="https://github.com/ViniciusBCMello">
+<img src="https://img.shields.io/badge/GitHub-ViniciusBCMello-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vinicius-mello-893529256/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+</a>
+
+</div>
+
+01. ABOUT ME
+
+Data Analyst & Automation Engineer | Python · Power BI · SQL · Machine Learning
+
+I'm a Data Analyst and Software Developer focused on building solutions that connect data, automation and software engineering.
+
+Currently working as a Data Analyst / BI Developer at Contax S.A., developing business intelligence solutions, automated workflows, data pipelines and analytical tools.
+
+My experience combines data analysis, RPA automation, backend development and machine learning, allowing me to work across different stages of the software and data lifecycle.
+
+PROFILE INFORMATION
+
+FIELD
 
 INFORMATION
 
-ROLE
+Position
 
 Data Analyst / BI Developer
 
-EDUCATION
+Company
 
-Computer Engineering
+Contax S.A.
 
-LOCATION
+Education
+
+Computer Engineering — 10th semester
+
+Graduation
+
+Expected December 2026
+
+Location
 
 Rio de Janeiro, Brazil
 
-FOCUS
+Main Focus
 
-Analytics, Automation & Software Development
+Data Analytics, Automation & Software Development
 
-LANGUAGES
+Portuguese
 
-Portuguese & English (C1)
+Native
 
-</div>
+English
 
-<br>
+Fluent — C1
 
-<!-- EXPERTISE -->
+Brazilian Sign Language
 
-<h2 align="center">02. AREAS OF EXPERTISE</h2>
+Basic
 
-<table align="center">
+02. AREAS OF EXPERTISE
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">01 / BUSINESS INTELLIGENCE</h3>
+01 / BUSINESS INTELLIGENCE
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
 
-<p align="center">
-Dashboards, data modeling, KPIs, analytical solutions and business intelligence.
-</p>
+Dashboards, data modeling, KPIs, DAX, analytical solutions and business intelligence.
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">02 / RPA & AUTOMATION</h3>
+02 / RPA & AUTOMATION
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&amp;logo=selenium&amp;logoColor=white" />
 
-<p align="center"> Web automation, scraping, ETL processes, integrations and automated workflows. </p>
+Web automation, scraping, ETL processes, integrations and automated workflows.
 
-</td> </tr> <tr> <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<h3 align="center">03 / SOFTWARE DEVELOPMENT</h3>
+03 / SOFTWARE DEVELOPMENT
 
-<p align="center">   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> </p>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
 
-<p align="center">
 Backend systems, REST APIs, SaaS platforms and full-stack applications.
-</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">04 / ARTIFICIAL INTELLIGENCE</h3>
+04 / ARTIFICIAL INTELLIGENCE
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" />
 
-<p align="center">
 Machine learning, predictive analytics, intelligent agents and AI applications.
-</p>
 
 </td>
 </tr>
 </table>
 
-<br>
+03. TECHNOLOGIES & TOOLS
 
-<!-- TECH STACK -->
+Languages & Development
 
-<h2 align="center">03. TECHNOLOGIES & TOOLS</h2>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,flask,git,github,vscode&amp;theme=dark" />
+</div>
 
-<h3 align="center">Languages & Development</h3>
+Data & Analytics
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,git,github,vscode&theme=dark" />
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&amp;logo=googlebigquery&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" />
+</div>
 
-<h3 align="center">Data & Analytics</h3>
+Automation & Infrastructure
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&amp;logo=microsoftpowerautomate&amp;logoColor=white" />
+</div>
 
-<h3 align="center">Automation & Infrastructure</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<br>
-
-<!-- GITHUB ANALYTICS -->
-
-<h2 align="center">04. GITHUB ANALYTICS</h2>
+04. GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBCMello&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=E53935&icon_color=E53935&text_color=C9D1D9&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ViniciusBCMello&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;bg_color=0D1117&amp;title_color=E53935&amp;icon_color=E53935&amp;text_color=C9D1D9" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBCMello&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=E53935&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBCMello&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;bg_color=0D1117&amp;title_color=E53935&amp;text_color=C9D1D9" />
 
-<br><br>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ViniciusBCMello&theme=dark&hide_border=true&background=0D1117&ring=E53935&fire=E53935&currStreakLabel=E53935" />
+<img width="75%" src="https://streak-stats.demolab.com?user=ViniciusBCMello&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=E53935&amp;fire=E53935&amp;currStreakLabel=E53935" />
 
-<br><br>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusBCMello&bg_color=0D1117&color=C9D1D9&line=E53935&point=FFFFFF&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusBCMello&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=E53935&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" />
 
 </div>
 
-<br>
+05. SELECTED PROJECTS
 
-<!-- PROJECTS -->
-
-<h2 align="center">05. SELECTED WORK & PROJECTS</h2>
-
-<table align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>Peteco — AI Agent</h3>
+Peteco — AI Agent
 
-<p>Intelligent agent architecture with tool calling, context management and database integration.</p>
+Intelligent agent architecture with tool calling, context management and database integration.
 
-<sub>PYTHON · AI · AGENT ARCHITECTURE</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>Ligo Messaging</h3>
-
-<p>Automation and data processing workflow for message extraction, transformation and cost management.</p>
-
-<sub>PYTHON · RPA · ETL · SQL</sub>
-
-</td> </tr> <tr> <td width="50%" valign="top">
-
-<h3>Zentrafood — SaaS</h3>
-
-<p>White-label restaurant management platform with marketplace integrations and centralized order management.</p>
-
-<sub>PYTHON · FLASK · SAAS</sub>
+PYTHON AI AGENT ARCHITECTURE
 
 </td>
 <td width="50%" valign="top">
 
-<h3>TeleComuni — Telemedicine</h3>
+Ligo Messaging
 
-<p>Distributed telemedicine application with authentication, containerization and service architecture.</p>
+Automation and data processing workflow for message extraction, transformation and cost management.
 
-<sub>FLASK · DOCKER · POSTGRESQL</sub>
+PYTHON RPA ETL SQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+Zentrafood — SaaS
+
+White-label restaurant management platform with marketplace integrations and centralized order management.
+
+PYTHON FLASK SAAS
+
+</td>
+<td width="50%" valign="top">
+
+TeleComuni — Telemedicine
+
+Distributed telemedicine application with authentication, containerization and service architecture.
+
+FLASK DOCKER POSTGRESQL
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<!-- CONTACT -->
-
-<h2 align="center">06. CONNECT WITH ME</h2>
-
-<p align="center">   <a href="https://www.linkedin.com/in/vinicius-mello-893529256/">     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />   </a>   <a href="https://github.com/ViniciusBCMello">     <img src="https://img.shields.io/badge/GitHub-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />   </a> </p>
-
-<br>
-
-<!-- FOOTER -->
+06. CONNECT WITH ME
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090C0C,100:E53935&height=120&section=footer" />
+<a href="https://www.linkedin.com/in/vinicius-mello-893529256/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+</a>
 
-<sub>DATA · AUTOMATION · DEVELOPMENT · ARTIFICIAL INTELLIGENCE</sub>
+<a href="https://github.com/ViniciusBCMello">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+</a>
 
-<br>
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090C0C,100:E53935&amp;height=120&amp;section=footer" />
+
+DATA · AUTOMATION · DEVELOPMENT · ARTIFICIAL INTELLIGENCE
 
 <sub>Building intelligent solutions through technology.</sub>
 
