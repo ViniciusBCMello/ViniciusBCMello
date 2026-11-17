@@ -31,47 +31,9 @@ Currently working as a Data Analyst / BI Developer at Contax S.A., developing bu
 
 My experience combines data analysis, RPA automation, backend development and machine learning, allowing me to work across different stages of the software and data lifecycle.
 
-PROFILE INFORMATION
+1.1 PROFILE INFORMATION
 
-FIELD
-
-INFORMATION
-
-Position
-
-Data Analyst / BI Developer
-
-Company
-
-Contax S.A.
-
-Education
-
-Computer Engineering — 10th semester
-
-Graduation
-
-Expected December 2026
-
-Location
-
-Rio de Janeiro, Brazil
-
-Main Focus
-
-Data Analytics, Automation & Software Development
-
-Portuguese
-
-Native
-
-English
-
-Fluent — C1
-
-Brazilian Sign Language
-
-Basic
+<table>   <thead>     <tr>       <th align="left">INFORMAÇÃO</th>       <th align="left">DETALHES</th>     </tr>   </thead>   <tbody>     <tr><td><strong>Cargo</strong></td><td>Data Analyst / BI Developer</td></tr>     <tr><td><strong>Empresa</strong></td><td>Contax S.A.</td></tr>     <tr><td><strong>Formação</strong></td><td>Engenharia da Computação</td></tr>     <tr><td><strong>Instituição</strong></td><td>Universidade Veiga de Almeida</td></tr>     <tr><td><strong>Conclusão prevista</strong></td><td>Dezembro de 2026</td></tr>     <tr><td><strong>Localização</strong></td><td>Rio de Janeiro, Brasil</td></tr>     <tr><td><strong>Especialidade</strong></td><td>BI, RPA, Automação e Desenvolvimento</td></tr>     <tr><td><strong>Português</strong></td><td>Nativo</td></tr>     <tr><td><strong>Inglês</strong></td><td>C1 — Fluente</td></tr>     <tr><td><strong>Libras</strong></td><td>Básico</td></tr>   </tbody> </table>
 
 02. AREAS OF EXPERTISE
 
