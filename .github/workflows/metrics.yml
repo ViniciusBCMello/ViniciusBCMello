@@ -1,0 +1,47 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza todos os dias à meia-noite UTC
+  workflow_dispatch: # Permite rodar manualmente pela aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gerar Card de Estatísticas Gerais
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-stats.svg
+          token: ${{ secrets.readme }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          config_twemoji: yes
+          config_display: compact
+          template: classic
+          plugin_isocalendar: no
+          plugin_languages: no
+          extras_css: |
+            svg { background-color: #0D1117; border-radius: 6px; }
+            h2, .h2 { color: #E53935 !important; }
+            .field, .repository .name { color: #C9D1D9 !important; }
+            svg path[fill] { fill: #E53935; }
+
+      - name: Gerar Card de Linguagens Mais Usadas
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-langs.svg
+          token: ${{ secrets.readme }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          config_timezone: America/Sao_Paulo
+          template: classic
+          extras_css: |
+            svg { background-color: #0D1117; border-radius: 6px; }
+            h2, .h2 { color: #E53935 !important; }
+            .field { color: #C9D1D9 !important; }
